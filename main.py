@@ -33,7 +33,7 @@ expected_features = ['sexe', 'sedentaire', 'spupd',  'decompensation',  'sulfami
 binary_variables =['sexe', 'sedentaire', 'spupd',  'decompensation',  'sulfamide_seule']
 
 # Interface utilisateur
-st.title("Application of the Research Work: 'Predicting Transition to Insulin Therapy in Type 2 Diabetes Using Logistic Regression'")
+st.title("Application of the Research Work: 'Predicting Transition to Insulin Therapy in Type 2 Diabetes Using Machine Learning'")
 
 # Sous-titre avec le nom du professeur
 st.subheader("Directed by Professor Ines Kochtali")
