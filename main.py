@@ -36,7 +36,7 @@ binary_variables =['sexe', 'sedentaire', 'spupd',  'decompensation',  'sulfamide
 st.title("Application of the Research Work: 'Predicting Transition to Insulin Therapy in Type 2 Diabetes Using Machine Learning'")
 
 # Sous-titre avec le nom du professeur
-st.subheader("Directed by Professor Ines Kochtali")
+st.subheader("Directed by Professor Ines Khochtali")
 
 
 binary_inputs = {}
@@ -71,7 +71,7 @@ st.markdown('---')
 
 # Section "Authors"
 st.subheader('Authors')
-st.write("Application created by Resident Mohamed Kenani under the guidance of Professor Ines Kochtali and Dr. Ekram Hajji")
+st.write("Application created by Resident Mohamed Kenani under the guidance of Professor Ines Khochtali and Dr. Ekram Hajji")
 
 # Séparation avant la section Contact
 st.markdown('---')
